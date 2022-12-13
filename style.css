@@ -1,0 +1,13 @@
+body {
+  background: #cccccc; /* defini a cor de fundo da pagina*/
+   /*text-align: center; alinha o conteudo da pagina*/
+}
+
+p {
+  text-align: center;
+  /*font-size: 20px;  altera o tamanho da fonte dos paragrafos*/
+}
+
+em strong {
+  color: #ff0000; /* definido uma cor para um conteudo especifico*/
+}

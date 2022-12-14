@@ -8,8 +8,12 @@
   padding: 30px;
 }
 
-h1 {
-  text-align: center;
+.titulo-principal {
+  padding-left: 20px;
+}
+
+.titulo-centralizado {
+  text-align: center; /* centrazilar o conteudo da tag h2*/
 }
 
 p {
@@ -39,10 +43,6 @@ ul {
   vertical-align: top; /* alinha o conteudo na linha de cima*/
   width: 20%; /* aplicando largura ao conteudo*/
   margin-right: 15%; /* espaçamento a direita*/
-}
-
-h2 {
-  text-align: center; /* centrazilar o conteudo da tag h2*/
 }
 
 .imagem-beneficios {

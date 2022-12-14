@@ -1,6 +1,15 @@
-body {
+#banner {
+  width: 100%; /* altera a largura da imagem para 100% */
+}
+
+.principal {
   background: #cccccc; /* defini a cor de fundo da pagina*/
-   /*text-align: center; alinha o conteudo da pagina*/
+  /*text-align: center; alinha o conteudo da pagina*/
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
 }
 
 p {
@@ -8,6 +17,34 @@ p {
   /*font-size: 20px;  altera o tamanho da fonte dos paragrafos*/
 }
 
+#missao {
+  font-size: 20px;
+}
+
 em strong {
   color: #ff0000; /* definido uma cor para um conteudo especifico*/
+}
+
+.itens {
+  font-style: italic;
+}
+
+.beneficios {
+  background: #ffffff;
+  padding: 20px;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top; /* alinha o conteudo na linha de cima*/
+  width: 20%; /* aplicando largura ao conteudo*/
+  margin-right: 15%; /* espaçamento a direita*/
+}
+
+h2 {
+  text-align: center; /* centrazilar o conteudo da tag h2*/
+}
+
+.imagem-beneficios {
+  width: 50%;
 }

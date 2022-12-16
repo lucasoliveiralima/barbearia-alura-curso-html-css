@@ -1,0 +1,16 @@
+header {
+  background: #bbbbbb;
+}
+
+nav li {
+  display: inline;
+  margin: 0 0 0 15px;
+}
+
+nav a {
+  text-transform: uppercase; /* transforma o conteudo da tag nav em maiusculo.*/
+  color: #000000;
+  font-weight: bold; /* muda o estilo da fonde */
+  font-size: 22px;
+  text-decoration: none; /* retira o sublinhado do link*/
+}

@@ -79,3 +79,16 @@ nav a:hover {
     font-weight: bold; /* determina o peso da fonte*/
     margin-top: 10px;
 }
+
+/*Rodape*/
+footer {
+    text-align: center;
+    background: url(./src/img/bg.jpg);
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px;
+}
